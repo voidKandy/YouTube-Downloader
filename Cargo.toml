@@ -1,5 +1,5 @@
 [package]
-name = "dad-youtube"
+name = "YouTube-Downloader"
 version = "0.1.0"
 edition = "2021"
 
